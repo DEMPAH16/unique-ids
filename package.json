@@ -1,0 +1,20 @@
+{
+  "name": "unique-ids",
+  "version": "1.0.0",
+  "description": "A simple and concise look at different unique id-generating packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:DEMPAH16/unique-ids.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shortid": "^2.2.13",
+    "uid": "0.0.2",
+    "uniqid": "^5.0.3",
+    "uuid": "^3.3.2"
+  }
+}
